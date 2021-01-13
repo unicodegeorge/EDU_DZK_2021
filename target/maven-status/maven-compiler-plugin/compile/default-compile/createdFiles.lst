@@ -1,0 +1,5 @@
+cz\unicode\dzk\ApiConf.class
+cz\unicode\dzk\managers\SessionManager.class
+cz\unicode\dzk\managers\UsersManager.class
+cz\unicode\dzk\models\UserModel.class
+cz\unicode\dzk\UsersResource.class
